@@ -1,16 +1,18 @@
-### Hi there 👋
+<hr>
+<div align="center">
+  <h3>Hey! My name's Trolator!</h3>
+  <p>
+    <!-- credits: vast -->
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=trolator&countColor=%23674fc9" alt="Profile Views"/>
+      <!-- <img height="25" src="https://img.shields.io/github/followers/trolator?color=674fc9&style=for-the-badge&logo=github&label=Followers" alt="Followers"/> -->
+      <img height="25" src="https://img.shields.io/github/stars/trolator?color=674fc9&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    </div>
+  </p>
+</div>
 
-<!--
-**trolator/trolator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=trolator&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
