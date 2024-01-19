@@ -14,6 +14,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=trolator&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
-
-![Footer](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
 <hr>
+![Footer](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
+
