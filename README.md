@@ -1,5 +1,4 @@
-<hr>
- ![Header](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
+![Header](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 <div align="center">
   <h3>Hey! My name's Trolator!</h3>
   <p>
@@ -16,4 +15,4 @@
 </p>
 
 ![Footer](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
-<hr>
+
