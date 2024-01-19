@@ -1,7 +1,6 @@
 <hr>
 <div align="center">
  ![Header](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
-  ![Footer](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
   <h3>Hey! My name's Trolator!</h3>
   <p>
     <!-- credits: vast -->
@@ -12,7 +11,7 @@
     </div>
   </p>
 </div>
-
+![Footer](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=trolator&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
